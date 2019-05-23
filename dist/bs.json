@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "build_size": "1180x400",
+  "build_source": {
+    "build_source_path": "./c20-builder/c20-builder-1180x400/"
+  },
+  "build_source_options": {
+    "stub_paths": []
+  },
+  "output": "/Users/derek.miranda/Internal/c20/build-templates/bt-ER-1180x400",
+  "filters": {},
+  "id": "Container 2.0 - 1180x400",
+  "bsid": "deb62920-3691-4089-a500-bfb1c193fdc5",
+  "processing": false,
+  "error": false
+}
