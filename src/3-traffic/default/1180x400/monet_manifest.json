@@ -12,7 +12,11 @@
       "value": "WATCH NOW",
       "maxLength": 25
     },
-    { "name": "Exit_URL", "type": "url", "value": "https://www.netflix.com/" },
+    {
+      "name": "Exit_URL",
+      "type": "url",
+      "value": "https://www.netflix.com/"
+    },
     {
       "name": "Headline_Text",
       "type": "text",
@@ -34,7 +38,11 @@
       "type": "image",
       "value": ""
     },
-    { "name": "Toggle_Supercut", "type": "boolean", "value": true },
+    {
+      "name": "Toggle_Supercut",
+      "type": "boolean",
+      "value": true
+    },
     {
       "name": "Supercut_Video",
       "type": "video",
