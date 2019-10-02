@@ -34,11 +34,6 @@
       "value": "treatment-assets/background.jpg"
     },
     {
-      "name": "Ratings_Bug_Image",
-      "type": "image",
-      "value": ""
-    },
-    {
       "name": "Toggle_Supercut",
       "type": "boolean",
       "value": true
